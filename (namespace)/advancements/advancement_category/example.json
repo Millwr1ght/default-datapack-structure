@@ -1,0 +1,32 @@
+{
+    "display": {
+        "icon": {
+            "item":"minecraft:wooden_shovel"
+        },
+        "title": "This player knows how to craft wooden shovels",
+        "frame": "challenge",
+        "description": "this is an example advancement!",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "learnedaboutwoodenshovels": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "minecraft:wooden_shovel"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "learnedaboutwoodenshovels"
+            ]
+        ],
+    "rewards": {
+        "recipes": [],
+        "loot": [],
+        "experience": 5000,
+        "function": "(namespace):subfolder/function"
+    }
+}
