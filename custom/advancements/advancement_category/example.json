@@ -27,6 +27,6 @@
         "recipes": [],
         "loot": [],
         "experience": 5000,
-        "function": "(namespace):subfolder/function"
+        "function": "custom:function"
     }
 }

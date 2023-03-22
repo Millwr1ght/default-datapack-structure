@@ -1,0 +1,16 @@
+{
+    "dimensions": {
+        "overworld": {
+            "type": "minecraft:overworld"
+        },
+        "the_nether": {
+            "type": "minecraft:the_nether"
+        },
+        "the_end": {
+            "type": "minecraft:the_end"
+        },
+        "dimension_name": {
+            "type": "custom:dimension_name"
+        }
+    }
+}

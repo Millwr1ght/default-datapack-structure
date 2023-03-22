@@ -1,4 +1,4 @@
-# function (namespace):function.mcfunction
+# function custom:function.mcfunction
 # one valid command is placed per line, without the usual forward slash
 # comments are proceeded by an octothorp
 
